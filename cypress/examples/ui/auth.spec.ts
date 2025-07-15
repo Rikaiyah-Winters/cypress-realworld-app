@@ -111,7 +111,7 @@ describe("User Sign-up and Login", function () {
   it("should display login errors", function () {
     cy.visit("/");
 
-    cy.getBySel("signin-username").type("User");
+    cy.getBySel("signin-username").type("User"); //why not have to add .find("input") to type this in?
     cy.getBySel("signin-username").find("input").clear();
     cy.getBySel("signin-username").find("input").blur();
     cy.get("#username-helper-text").should("be.visible").and("contain", "Username is required");
