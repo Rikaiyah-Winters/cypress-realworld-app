@@ -74,17 +74,6 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
-    },
-    {
-      "id": "xj6MEOIef",
-      "uuid": "dda12533-c71f-445d-8858-c4ff2fe43ac8",
-      "firstName": "Bob",
-      "lastName": "Ross",
-      "username": "PainterJoy90",
-      "password": "$2a$10$e9DHpoDqXKeCOkoPhtj17.UgJdungkBd.TRp7s6vz0U2afT3oIR9G",
-      "balance": 0,
-      "createdAt": "2025-07-15T01:10:08.224Z",
-      "modifiedAt": "2025-07-15T01:10:08.224Z"
     }
   ],
   "contacts": [
@@ -264,17 +253,6 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
-    },
-    {
-      "id": "VgZoEw1EJ",
-      "uuid": "ede27ddb-70db-4368-a739-aa28f26a37d2",
-      "userId": "xj6MEOIef",
-      "bankName": "The Best Bank",
-      "accountNumber": "987654321",
-      "routingNumber": "123456789",
-      "isDeleted": false,
-      "createdAt": "2025-07-15T01:20:39.494Z",
-      "modifiedAt": "2025-07-15T01:20:39.494Z"
     }
   ],
   "transactions": [
